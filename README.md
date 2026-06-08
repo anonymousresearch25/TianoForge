@@ -61,10 +61,10 @@ All other models and configurations remain available as a comment in the integer
 
 The experiments use a dataset of **2,610 closed EDK II bug issues** collected from the [TianoCore GitHub issue tracker](https://github.com/tianocore/edk2/issues) on April 3, 2026:
 
-- **2,535 Bugzilla-transferred issues** — used as the external retrieval corpus (System B)
+- **2,535 Bugzilla-transferred issues**
 - **75 GitHub-native issues** — evaluation set (filed directly on GitHub, Dec 2024 – Feb 2026)
   - Priority distribution: 32 medium, 28 low, 15 high
-  - 37 issues carry a known first assignee (used for assignment evaluation)
+  - 37 issues carry a known first assignee (used for assignment task and TianoForge evaluation)
 
 The dataset is publicly available on Dataverse (link omitted for anonymous review). Place the CSV file at:
 - Google Drive root, or
