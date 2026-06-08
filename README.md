@@ -121,5 +121,5 @@ All dependencies are installed automatically in Cell 1 of each notebook via `pip
 ## Key Results
 
 
-The integrated TianoForge pipeline reduces average triage time from **10.86 days** (manual) to **7.08 minutes** (automated), a reduction of **99.95%** (~2,208× speedup).
+TianoForge reduces average triage time from **10.86 days** (manual) to **7.08 minutes** (automated), a reduction of **99.95%** (~2,208× speedup).
 
